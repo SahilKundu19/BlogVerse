@@ -4,7 +4,7 @@ A modern, full-featured blogging platform built with React, TypeScript, and Supa
 
 
 
-## Screenshots of Trackify
+## Screenshots of BlogVerse
 
 - Light Mode
   ![BlogVerse Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Light_Mode.png)
@@ -13,7 +13,7 @@ A modern, full-featured blogging platform built with React, TypeScript, and Supa
   ![BlogVerse Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Dark_Mode.png)
   
 - Mobile View
-  ![Trackify Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Mobile_Version.png) 
+  ![BlogVerse Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Mobile_Version.png) 
 
 
 
