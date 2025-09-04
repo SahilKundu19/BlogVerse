@@ -3,19 +3,17 @@
 A modern, full-featured blogging platform built with React, TypeScript, and Supabase. This project provides a seamless writing experience with markdown support, user authentication, commenting system, and responsive design.
 
 
-<!-- ---
+
 ## Screenshots of Trackify
 
 - Light Mode
-  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-Light-Mode.png)
+  ![BlogVerse Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Light_Mode.png)
   
 - Dark Mode
-  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-dark-mode.png)
+  ![BlogVerse Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Dark_Mode.png)
   
 - Mobile View
-  ![Trackify Screenshot](https://github.com/SahilKundu19/Trackify/blob/d2c2d5cfac2ddd6e8bfc8ed22c2e35df6ceee588/Trackify-Mobile-view.png) -->
-
----
+  ![Trackify Screenshot](https://github.com/SahilKundu19/BlogVerse/blob/0feb7aeb116a795ae3c237bff6eab6e3b2f238cb/BlogVerse-Mobile_Version.png) 
 
 
 
